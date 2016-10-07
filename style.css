@@ -3,6 +3,10 @@ body {
     background: -webkit-gradient(linear, left top, right top, color-stop(50%,#1c9be4), color-stop(50%,#ec0c1b), color-stop(0%,#1c9be4));
 }
 
+img {
+	max-width: 100%;
+}
+
 div.responsive-header {
 	height: 20vh;
 }
